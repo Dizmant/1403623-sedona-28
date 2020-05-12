@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Stanislav Khmil](https://up.htmlacademy.ru/htmlcss/28/user/1403623).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://up.htmlacademy.ru/htmlcss/28/user/87930).
 
 ---
 
