@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 * Наставник:
 =======
-* Наставник: 
+* Наставник: [Дмитрий Гуляев](https://up.htmlacademy.ru/htmlcss/28/user/87930).
 >>>>>>> parent of c432b39... Update Readme.md
 
 ---
